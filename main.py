@@ -1,16 +1,11 @@
-# This is a sample Python script.
-
-# Press Mayús+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+import strings2 as st2
+import ExercicisBucles as eb
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    #st2.multiples3menor100()
+    #eb.fibonaziOP()
+    #eb.multiples3menor100()
+    #eb.multiples7suma100()
+    eb.fibonaziParams(2, 5)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
