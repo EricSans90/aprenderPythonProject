@@ -1,7 +1,10 @@
-#Funció mitjana aritmètica
+#Funció mitjana aritmètica yoqsetioxdxd
 def average() :
     count = 0
     totalval = 0
+    totalval = 1
+    totalval = 0
+
     for numval in [9,"patata",12.7,False]:
         print(type(numval))
         print("ahora numval vale " + str(numval))
