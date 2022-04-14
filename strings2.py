@@ -80,7 +80,7 @@ def rindex():
         print(str(stuff.rindex(buscador2)))
     except:
         print("Pues vaya")
-    #se suposa que return ValueError --> com ho puc vore?
+
 
 
 def rjust():

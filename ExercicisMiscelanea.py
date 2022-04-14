@@ -22,7 +22,6 @@ def validateDNI(dni):
 
         except:
             print("No has introducido un DNI válido, los 8 primeros caracteres deben ser números.")
-
     else:
         print("No has introducido un DNI válido, éste debe tener 9 caracteres: 8 números y una letra y tu has "
                 "introducido: "+str(len(dni))+" caracteres.")
